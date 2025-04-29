@@ -4,4 +4,4 @@
 
 ![ADDITIONAL](https://go-skill-icons.vercel.app/api/icons?i=redis,pandas,docker,vim,git)
 
-![AUXILIARY](https://go-skill-icons.vercel.app/api/icons?i=sqlite,flask,githubactions,rabbitmq)
+![AUXILIARY](https://go-skill-icons.vercel.app/api/icons?i=sqlite,flask,githubactions,rabbitmq,go)
